@@ -1,0 +1,17 @@
+body { font-family: 'Lato', sans-serif;}
+:root {
+  --primary-color: rgb(187, 64, 131);
+  --secondary-color: rgb(255, 255, 255);
+}
+
+.primarycolor {
+  text-align: center;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+}
+
+.seccolor {
+  text-align: center;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+}
